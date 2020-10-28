@@ -1,7 +1,7 @@
 {
-  "name": "{{ name }}",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "name": "kjs",
+  "description": "kjs",
+  "author": "kjs",
   "private": true,
   "scripts": {
     "start": "node ./server/server.js",
